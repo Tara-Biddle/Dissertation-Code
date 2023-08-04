@@ -1,0 +1,23 @@
+channels:
+  - conda-forge
+  - matsci
+  - defaults
+ssl_verify: true
+create_default_packages:
+  - ipython
+  - numpy
+  - scipy
+  - matplotlib
+  - pandas
+  - numba
+  - jupyter
+  - spyder
+
+
+
+
+
+
+
+
+
